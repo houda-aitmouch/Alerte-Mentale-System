@@ -20,11 +20,3 @@ Système intelligent de **détection précoce de détresse mentale** à partir d
 ![Interface Streamlit](figures/chargement_dataset.png)
 
 ---
-
-## Installation (Locale – Maroc)
-
-```bash
-git clone https://github.com/ton-pseudo/Alerte-Mentale-System.git
-cd Alerte-Mentale-System
-pip install -r requirements.txt
-streamlit run app.py
