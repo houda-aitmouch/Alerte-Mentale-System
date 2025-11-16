@@ -17,6 +17,6 @@ Système intelligent de **détection précoce de détresse mentale** à partir d
 
 ## Démo (Capture)
 
-![Interface Streamlit](figures/chargement_dataset.png)
+![Interface Streamlit](INT.png)
 
 ---
